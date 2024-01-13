@@ -1,0 +1,8 @@
+      }
+    ]
+  },
+  "mute": {
+    "sounds": [
+      {
+        "name": "mute",
+		"stream": "true"

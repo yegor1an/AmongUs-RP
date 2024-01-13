@@ -1,0 +1,178 @@
+{
+  "shhhhhhh": {
+    "sounds": [
+      {
+        "name": "sfx/shhhhhhh",
+		"stream": "false"
+      }
+    ]
+  },
+  "crewmate_win": {
+    "sounds": [
+      {
+        "name": "sfx/crewmate_win",
+		"stream": "false"
+      }
+    ]
+  },
+  "impostor_win": {
+    "sounds": [
+      {
+        "name": "sfx/impostor_win",
+		"stream": "false"
+      }
+    ]
+  },
+  "task_completed": {
+    "sounds": [
+      {
+        "name": "sfx/task_completed",
+		"stream": "false"
+      }
+    ]
+  },
+  "camera": {
+    "sounds": [
+      {
+        "name": "sfx/camera",
+		"stream": "false"
+      }
+    ]
+  },
+  "e_meeting": {
+    "sounds": [
+      {
+        "name": "sfx/e_meeting",
+		"stream": "false"
+      }
+    ]
+  },
+  "generic": {
+    "sounds": [
+      {
+        "name": "sfx/generic",
+		"stream": "false"
+      }
+    ]
+  },
+  "kill": {
+    "sounds": [
+      {
+        "name": "sfx/kill",
+		"stream": "false"
+      }
+    ]
+  },
+  "death": {
+    "sounds": [
+      {
+        "name": "sfx/death",
+		"stream": "false"
+      }
+    ]
+  },
+  "vent": {
+    "sounds": [
+      {
+        "name": "sfx/vent",
+		"stream": "false"
+      }
+    ]
+  },
+  "meltdown": {
+    "sounds": [
+      {
+        "name": "sfx/meltdown",
+		"stream": "false"
+      }
+    ]
+  },
+  "comms_down": {
+    "sounds": [
+      {
+        "name": "sfx/comms_down",
+		"stream": "false"
+      }
+    ]
+  },
+  "fake": {
+    "sounds": [
+      {
+        "name": "sfx/fake",
+		"stream": "false"
+      }
+    ]
+  },
+  "report_body": {
+    "sounds": [
+      {
+        "name": "sfx/report_body",
+		"stream": "false"
+      }
+    ]
+  },
+  "vote": {
+    "sounds": [
+      {
+        "name": "sfx/vote",
+		"stream": "false"
+      }
+    ]
+  },
+  "main_ambience": {
+    "sounds": [
+      {
+        "name": "main_ambience",
+		"stream": "true"
+      }
+    ]
+  },
+  "spawn": {
+    "sounds": [
+      {
+        "name": "sfx/spawn",
+		"stream": "false"
+      }
+    ]
+  },
+  "polus_ambience": {
+    "sounds": [
+      {
+        "name": "polus_ambience",
+		"stream": "true"
+      }
+    ]
+  },
+  "clean": {
+    "sounds": [
+      {
+        "name": "clean",
+		"stream": "true"
+      }
+    ]
+  },
+  "mute": {
+    "sounds": [
+      {
+        "name": "mute",
+		"stream": "true"
+      }
+    ]
+  },
+  "steal": {
+    "sounds": [
+      {
+        "name": "steal",
+		"stream": "true"
+      }
+    ]
+  },
+  "vote_timer": {
+    "sounds": [
+      {
+        "name": "sfx/vote_timer",
+		"stream": "false"
+      }
+    ]
+  }
+}

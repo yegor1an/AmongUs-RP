@@ -1,0 +1,38 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "item/mira/location7"
+    },
+    "display": {
+        "thirdperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0, 0, 0 ]
+        },
+        "thirdperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0, 0, 0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 10, 3.5, -18 ],
+            "scale": [ 1.4, 1.4, 0.5 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -39, 21.5, -18 ],
+            "scale": [ 0.5, 0.5, 0 ]
+        },
+	    "ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0, 0, 0 ]
+		},
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        }
+    }
+}

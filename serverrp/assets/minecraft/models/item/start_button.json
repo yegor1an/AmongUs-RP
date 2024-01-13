@@ -1,0 +1,13 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "item/start_button"
+    },
+    "display": {
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2.5, 2.5, 0.01 ]
+        }
+    }
+}
